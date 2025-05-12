@@ -1,0 +1,4 @@
+stregatto
+regolo-ai-plugin
+openai
+flask
